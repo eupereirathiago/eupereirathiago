@@ -3,7 +3,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas, com interesse em progra
 Atualmente aprendendo C, Python e JavaScript, sempre buscando evoluir e ganhar experiência prática.
 
 🎓 Analista e Desenvolvedor  
-💻 Aprendendo C, HTML, CSS, JAVASCRIPT E PYTHON  
+💻 Aprendendo C, HTML, CSS, JAVASCRIPT, PYTHON  e REACT.
 🚀 Buscando oportunidade de estágio em programação  
 
 ---
